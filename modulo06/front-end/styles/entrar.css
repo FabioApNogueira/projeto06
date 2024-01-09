@@ -1,0 +1,31 @@
+
+.main-entrar {
+    display: flex;
+    align-items: center;
+}
+
+.cadastro-cliente {
+    max-width: 396px;
+    text-align: center;
+    padding: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.171);
+    box-shadow: 0px -1px 3px rgba(0, 0, 0, 0.24);
+    border-radius: 10px;
+    background-color: #f5f5f5; 
+}
+
+.cadastro-cliente a {
+    text-decoration: none;
+}
+
+.btn-criar {
+    background-color: #5c5c8a; 
+    color: #ffffff; 
+}
+
+.background-img {
+    background-image: url("/imagens/aviao.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
